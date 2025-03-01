@@ -9,6 +9,7 @@ import logging
 import csv
 import time
 
+
 from queue import Queue
 from time import sleep
 from collections import namedtuple
